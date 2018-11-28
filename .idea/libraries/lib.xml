@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://D:/360安全浏览器下载/htmlunit-2.33-bin/htmlunit-2.33/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/360安全浏览器下载/htmlunit-2.33-bin/htmlunit-2.33/lib" recursive="false" />
+  </library>
+</component>
