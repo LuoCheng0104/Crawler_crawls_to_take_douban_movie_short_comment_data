@@ -37,8 +37,8 @@ public class Login{
     public static void loginDouban(){
         String login_src="https://accounts.douban.com/login";
         //输入用户名及密码
-        String form_email="18621331015";
-        String form_password="19941204";
+        String form_email="";
+        String form_password="";
         //获取验证码
         String captcha_id=getImgID();
         String login="登录";
